@@ -1,0 +1,98 @@
+.isAxtaran__top {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 50px;
+  display: flex;
+  align-items: end;
+  justify-content: end;
+  &_card {
+    max-width: 280px;
+    p {
+      font-size: 100%;
+      font-weight: 600;
+      line-height: 24.38px;
+      text-align: left;
+    }
+    .isAxtaran_btn {
+      margin-top: 10px;
+      max-height: 36px;
+      padding: 6px 32px;
+    }
+  }
+}
+
+.isAxtaran__grid {
+
+
+  &__box{
+    max-width: 1180px;
+    margin: 0 auto;
+    margin-top: 70px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(561px, 1fr));
+  }
+    
+  &__card {
+    width: 561px;
+    height: 315px;
+    display: flex;
+    align-items: start;
+    margin-top: 30px;
+    justify-content: space-between;
+    &__left {
+      width: 263px;
+      height: 100%;
+      border-radius: 4px;
+      img {
+        width: 100%;
+        border-radius: 4px;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+    &__right {
+      color: black;
+      h3 {
+        font-size: 150%;
+        font-weight: 600;
+        line-height: 36.57px;
+        text-align: left;
+      }
+      p {
+        font-size: 150%;
+        font-weight: 500;
+        line-height: 36.57px;
+        text-align: left;
+      }
+      &__btns {
+        margin-top: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        button {
+          width: 130px;
+          height: 36px;
+          padding: 0;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-size: 80%;
+          font-weight: 600;
+          line-height: 19.5px;
+          text-align: center;
+          border: none;
+          border-radius: 50px;
+        }
+        .downalad {
+          background: none;
+          border: 1px solid #f3ea00;
+          transition: all 0.4s ease;
+        }
+        .downalad:hover {
+          background-color: rgba(250, 235, 215, 0.28);
+          transition: all 0.4s ease;
+        }
+      }
+    }
+  }
+}

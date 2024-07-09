@@ -1,0 +1,80 @@
+@import "../base/reset";
+@import "../utils/variable";
+
+
+.header__gradient__home {
+  background: $header-gradient;
+  height: 157vh;
+}
+
+.header__top{
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+#header__nav {
+  // display: flex;
+  // align-items: center;
+  // justify-content: center;
+  gap: 50px;
+  background-color: none;
+  font-family: "Montserrat", sans-serif;
+  color: #000000;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  &__user {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 17px;
+    & select {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 500;
+      font-size: 85%;
+      background: none;
+      border: none;
+      outline: none;
+      /* width: 90px; */
+    }
+    & i {
+      color: #333436B0;
+      font-size: 85%;
+    }
+  }
+}
+
+#header__nav li a {
+  color: #000000;
+  font-weight: 500;
+  font-size: 95%;
+}
+
+#header__dropdown {
+  background: rgb(134, 213, 243);
+  background: linear-gradient(180deg, rgba(134, 213, 243, 1) 0%, rgba(248, 248, 248, 1) 15%, rgba(255, 255, 255, 1) 100%);
+  border: none;
+  padding-left: 25px;
+  &#header__dropdown li {
+    list-style: circle;
+    list-style-image: url('/assets/img/Ellipse\ 43.png');
+  }
+}
+
+#header__dropdown li a:hover {
+  background: none;
+}
+
+#header__dropdown li a {
+  padding: 10px;
+}

@@ -1,0 +1,364 @@
+@import "../base/typography";
+
+.kids_run {
+  position: relative;
+  & img {
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    top: 222px;
+  }
+
+  & p {
+    position: absolute;
+    width: 570px;
+    height: 191px;
+    top: 75px;
+    left: 732px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 200%;
+    font-weight: 700;
+    line-height: 48.76px;
+    text-align: left;
+    color: white;
+  }
+}
+
+.more__img {
+  position: relative;
+  padding-top: 120px;
+  height: 1850px;
+
+  &__text__top {
+    background-image: url("/assets/img/Vector\ 7\ \(1\).png");
+    width: 633px;
+    height: 550px;
+    padding-top: 35px;
+    padding-left: 10px;
+  }
+  &__text__botton p {
+    width: 457px;
+    font-size: 150%;
+    font-weight: 600;
+    line-height: 36.57px;
+    text-align: left;
+    margin-left: 35px;
+    margin-top: 15px;
+  }
+  &__flex {
+    position: absolute;
+    top: 230px;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 100%;
+    display: flex;
+    overflow: hidden;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 25px;
+    &__card {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    .first_colum {
+      margin-bottom: 256px;
+    }
+    .third_colum {
+      margin-bottom: 210px;
+    }
+    .four_colum {
+      margin-bottom: 104px;
+    }
+    .five_colum {
+      margin-bottom: 330px;
+    }
+    .six_colum {
+      margin-bottom: 96px;
+    }
+  }
+}
+
+.musbetleri {
+  margin-top: 60px;
+  margin-bottom: 190px;
+  display: flex;
+  align-items: start;
+  gap: 50px;
+  padding-left: 66px;
+  &__left {
+    position: relative;
+    padding-top: 0px;
+    &__bigCart {
+      border-radius: 50%;
+      width: 651px;
+      height: 651px;
+      filter: drop-shadow(10px 40px 50px #e2001f33);
+      overflow: hidden;
+      img {
+        width: 100%;
+        object-fit: cover;
+        height: 100%;
+      }
+    }
+    img:nth-child(2) {
+      position: absolute;
+      bottom: -86px;
+    }
+  }
+  &__right {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: start;
+    &__card {
+      position: relative;
+      bottom: 15px;
+      &__box {
+        position: absolute;
+        display: flex;
+        gap: 30px;
+        align-items: center;
+        & p {
+          font-size: 120%;
+          font-weight: 600;
+          line-height: 29.26px;
+          text-align: left;
+          color: white;
+          width: 600px;
+        }
+      }
+      .txt__first {
+        top: -25px;
+        right: -500px;
+        p {
+          width: 700px;
+        }
+      }
+      .txt__second {
+        top: 5px;
+        right: -520px;
+      }
+      .txt__third {
+        top: 35px;
+        right: -575px;
+      }
+      .txt__four {
+        top: 65px;
+        right: -610px;
+      }
+      .txt__five {
+        top: 105px;
+        right: -640px;
+      }
+      .txt__six {
+        top: 140px;
+        right: -655px;
+      }
+      .txt__seven {
+        top: 175px;
+        right: -655px;
+      }
+      .txt__eight {
+        top: 210px;
+        right: -652px;
+      }
+      .txt__nine {
+        top: 240px;
+        right: -642px;
+      }
+      .txt__ten {
+        top: 280px;
+        right: -615px;
+      }
+    }
+  }
+}
+
+.bahcalarimiz {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 105px;
+
+  &__grid {
+    margin-top: 70px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(384px, 1fr));
+    gap: 24px;
+    &__card {
+      width: 384px;
+      margin: 0 auto;
+      height: 485px;
+      &__img {
+        width: 100%;
+        height: 422px;
+        & img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+      }
+      &__tittle {
+        margin-top: 15px;
+        h3 {
+          font-size: 105%;
+          font-weight: 500;
+          line-height: 25.6px;
+          text-align: left;
+        }
+        p {
+          font-size: 65%;
+          font-weight: 500;
+          line-height: 25px;
+          text-align: left;
+        }
+      }
+    }
+  }
+  &__btn {
+    margin-top: 44px;
+    width: 100%;
+    align-items: end;
+    display: flex;
+    justify-content: end;
+  }
+}
+
+.home__slider {
+  position: relative;
+  max-width: 1320px;
+  height: 791px;
+  margin: 0 auto;
+  .swiper {
+    width: 1200px;
+    height: 694px;
+  }
+}
+.swiper-button-prev,
+.swiper-button-next {
+  width: 38px;
+  height: 38px;
+  color: #909090;
+}
+
+.swiper-pagination {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 100px;
+}
+
+.swiper-slide {
+  cursor: pointer;
+  padding: 37px 101px;
+  background-image: url("/assets/img/Rectangle\ 75.png");
+  p {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 54.86px;
+    color: white;
+    span {
+      font-weight: 500;
+    }
+  }
+  button {
+    margin-top: 20px;
+  }
+}
+.swiper-pagination-bullet:nth-child(1) {
+  background: #18a1e5;
+  width: 22px;
+  height: 22px;
+}
+.swiper-pagination-bullet:nth-child(2) {
+  background: #ffde1fc7;
+  width: 16px;
+  height: 16px;
+}
+
+.swiper-pagination-bullet:nth-child(3) {
+  background: #ed1c24;
+  width: 12px;
+  height: 12px;
+}
+.swiper-pagination-bullet:nth-child(4) {
+  background: #1ac0b2;
+  width: 8px;
+  height: 8px;
+}
+
+.loqopeds {
+  max-width: 1200px;
+  margin: 123px auto 0 auto;
+  &__flex {
+    margin-top: 110px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    &__card {
+      width: 282px;
+      height: 402px;
+      &__img {
+        width: 100%;
+        height: 338px;
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+      }
+      &__tittle {
+        text-align: center;
+        background: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.2) 15.87%,
+          rgba(105, 112, 115, 0.02) 230.16%
+        );
+
+        p {
+          font-size: 91.65%;
+          font-weight: 500;
+          line-height: 22.35px;
+        }
+        span {
+          font-size: 83.35%;
+          font-weight: 500;
+          line-height: 20.32px;
+        }
+      }
+    }
+  }
+  &__btn{
+    width: 100%;
+    margin-top: 42px;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+  }
+}
+
+
+.oxsar_mehsular{
+  &__top{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 150px;
+  }
+  &__container{
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0px;
+
+    button{
+      margin-left: 60px;
+    }
+  }
+}

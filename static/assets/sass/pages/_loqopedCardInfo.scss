@@ -1,0 +1,90 @@
+@import "../base/typography";
+@import "../utils/variable";
+
+.xidmet__card__info__main {
+  max-width: 1200px;
+  margin: 80px auto 0px;
+  & h2 {
+    font-size: 150%;
+  }
+  &__top {
+    margin-top: 55px;
+    display: flex;
+    align-items: start;
+    gap: 34px;
+    &__right {
+      & ul {
+        & li {
+          margin-top: 10px;
+          list-style-image: url("/assets/img/Ellipse\ 33.png");
+          font-size: 90%;
+          font-weight: 500;
+          line-height: 21.94px;
+          text-align: left;
+        }
+      }
+      & p {
+        font-size: 95%;
+        font-weight: 400;
+        line-height: 28.5px;
+        text-align: left;
+        margin-top: 5px;
+      }
+      & h4 {
+        font-size: 100%;
+        font-weight: 600;
+        line-height: 30px;
+        text-align: left;
+        margin-top: 30px;
+      }
+      // & h4:nth-child(2) {
+      //   margin-top: 50px;
+      // }
+
+    }
+  }
+  &__bottom {
+    margin-top: 60px;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    & p {
+      font-size: 95%;
+      font-weight: 400;
+      line-height: 28.5px;
+      text-align: left;
+      margin-top: 5px;
+    }
+    & h4 {
+      font-size: 100%;
+      font-weight: 600;
+      line-height: 30px;
+      text-align: left;
+      margin-top: 30px;
+    }
+  }
+}
+
+.xidmet__grid__card__under__txt{
+  margin-top: 40px;
+  & p {
+    font-size: 95%;
+    font-weight: 400;
+    line-height: 28.5px;
+    text-align: left;
+    margin-top: 5px;
+  }
+  & h4 {
+    font-size: 100%;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    margin-top: 30px;
+  }
+}
+
+.xidmet__card__info__img_2people{
+  display: flex;
+  align-items: end;
+  justify-content: end;
+}

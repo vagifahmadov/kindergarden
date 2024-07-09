@@ -1,0 +1,375 @@
+[
+    {
+        "id": 1,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 2,
+        "sened": "Baxca aga",
+        "place": "YES uşaq baxcası”",
+        "isTecrubesi": "13-50 il arası",
+        "yas": "2-105",
+        "isQradik": "növbəli",
+        "emekHaqi": "45000azn",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "30.12.2000-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            " Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            " Scelerisque dui mauris, diam vitae justo, enim donec integer",
+            " Facilisi nullam vitae, ornare fermentum elementum aenean",
+            " Dignissim commodo, venenatis eget massa, sit consequat",
+            " Integer accumsan diam lectus dui aliquam quisque gravida",
+            " Ipsum venenatis amet iaculis velit ut sit sit eu",
+            " Ipsum venenatis amet iaculis velit ut sit sit eu"
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeşqayğıkeşqayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 20000
+    },
+    {
+        "id": 3,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 4,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 5,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 6,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 7,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 8,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 9,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 10,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 11,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    },
+    {
+        "id": 12,
+        "sened": "Baxca müəlliməsi",
+        "place": "İndiqo uşaq baxcası",
+        "isTecrubesi": "1-3 il arası",
+        "yas": "23-35",
+        "isQradik": "növbəli",
+        "emekHaqi": "450",
+        "telebler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "elanMudeti": "12.02.2021-12.03.2021",
+        "seher": "Bakı",
+        "fealiyat_sahesi": "Təhsil və elm",
+        "ixtisas": "Məktəbəqədər təhsil / Tərbiyəçi",
+        "tehsil": "Ali",
+        "melumat": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "Scelerisque dui mauris, diam vitae justo, enim donec integer.",
+            "Facilisi nullam vitae, ornare fermentum elementum aenean.",
+            "Dignissim commodo, venenatis eget massa, sit consequat .",
+            "Integer accumsan diam lectus dui aliquam quisque gravida. ",
+            "Ipsum venenatis amet iaculis velit ut sit sit eu."
+        ],
+        "teleblerCard": [
+            "Səbrli , gülərüz , qayğıkeş.",
+            "Yüksək səviyyədə yazılı və şifahi ünsiyyət bacarığı."
+        ],
+        "qeyd": "Rus və İnglis dilini bilməsi vacibdir",
+        "elan_Nomresi": 44782,
+        "yenilenme_tarix": "21 Iyun 2022",
+        "baxis": 2
+    }
+]

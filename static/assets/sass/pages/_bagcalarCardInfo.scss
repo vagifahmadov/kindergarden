@@ -1,0 +1,31 @@
+.bahcaCardInfoTop {
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  &__left {
+    width: 588px;
+    height: 505px;
+    img {
+      width: 100%;
+      object-fit: cover;
+      height: 100%;
+    }
+  }
+  &__right{
+    max-width: 588px;
+    height: 505px;
+    display: flex;
+    align-content: space-between;
+
+    justify-content: space-between;
+    flex-wrap: wrap;
+    img{
+        width: 282px;
+        height: 241px;
+        object-fit: cover;
+    }
+  }
+}

@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Massajistlərimiz</title>
+    <!-- font-awesome cdn -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- Swipper Slider -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <!-- font-family cdn  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Bootstrap -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/main.css') }}" />
+  </head>
+  <body>
+    <div class="loading">
+      <div class="loading__container">
+        <div class="loading__ring loading__ring--orange"></div>
+        <div class="loading__ring loading__ring--green"></div>
+        <div class="loading__ring loading__ring--blue"></div>
+      </div>
+    </div>
+    <div class="gradient_01">
+      <header>
+        <div class="header__top">
+          <div class="header__left">
+            <a href="/"> <img src="{{ url_for('static', filename='assets/img/Frame.png') }}" alt="" /></a>
+          </div>
+          <div class="header__right">
+            <nav class="navbar navbar-expand-lg">
+              <div class="container-fluid">
+                <div
+                  class="collapse navbar-collapse"
+                  id="navbarSupportedContent"
+                >
+                  <ul class="navbar-nav me-auto mb-2 mb-lg-0" id="header__nav">
+                    <li class="nav-item dropdown">
+                      <a
+                        class="nav-link dropdown-toggle"
+                        href="#"
+                        id="navbarDropdown"
+                        role="button"
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                      >
+                        Haqqımızda
+                      </a>
+                      <ul
+                        class="dropdown-menu"
+                        id="header__dropdown"
+                        aria-labelledby="navbarDropdown"
+                      >
+                        <li><a class="dropdown-item" href="#">Qeydiyyat</a></li>
+                        <li>
+                          <a class="dropdown-item" href="#">Daxil ol</a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="/contact">Əlaqə</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a
+                        class="nav-link dropdown-toggle"
+                        href="/vacancy"
+                        id="navbarDropdown"
+                        role="button"
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                      >
+                        Vakansiya
+                      </a>
+                      <ul
+                        class="dropdown-menu"
+                        id="header__dropdown"
+                        aria-labelledby="navbarDropdown"
+                      >
+                        <li>
+                          <a class="dropdown-item" href="#">İş elanları</a>
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="#">İş axtaranlar</a>
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="#">Cv yarat</a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="/kindergardens"
+                        >Bağçalarımız
+                      </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a
+                        class="nav-link dropdown-toggle"
+                        href="/services"
+                        id="navbarDropdown"
+                        role="button"
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                      >
+                        Xidmətlərimiz
+                      </a>
+                      <ul
+                        class="dropdown-menu"
+                        id="header__dropdown"
+                        aria-labelledby="navbarDropdown"
+                      >
+                        <li>
+                          <a class="dropdown-item" href="#"
+                            >Dayə</a
+                          >
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="#"
+                            >Loqoped</a
+                          >
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="#"
+                            >Massajist</a
+                          >
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="#">Geyim mağazaları</a>
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="#">Əyləncə mərkəzləri</a>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+            <div class="header__right__user">
+              <i class="fa-regular fa-user"></i>
+              <div class="custom__select">
+                <select name="" id="">
+                  <ul>
+                    <li>
+                      <option value="aze">Aze</option>
+                    </li>
+                    <li>
+                      <option value="rus">Rus</option>
+                    </li>
+                  </ul>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <main>
+        <div class="melumat__search">
+            <h2>Massajistlərimiz</h2>
+            <div class="melumat__search__inp">
+              <svg width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.31283 15.5736C9.86969 15.5733 11.3817 15.0515 12.6081 14.0912L16.4639 17.9518L17.7041 16.71L13.8483 12.8495C14.8079 11.6214 15.3294 10.1072 15.3298 8.54805C15.3298 4.67431 12.1818 1.52246 8.31283 1.52246C4.44387 1.52246 1.2959 4.67431 1.2959 8.54805C1.2959 12.4218 4.44387 15.5736 8.31283 15.5736ZM8.31283 3.27886C11.2152 3.27886 13.5755 5.64209 13.5755 8.54805C13.5755 11.454 11.2152 13.8172 8.31283 13.8172C5.41045 13.8172 3.05013 11.454 3.05013 8.54805C3.05013 5.64209 5.41045 3.27886 8.31283 3.27886Z" fill="#1A2B4B" fill-opacity="0.5"/>
+              </svg>
+              <input type="text" placeholder="Axtar">
+            </div>
+            <div class="melumat__search__CV">
+              <p>Məlumatları dolduraraq öz CVni yerləşdir.</p>
+              <button class="yellow__btn">CV yarat</button>
+            </div>
+        </div>
+        <div class="xidmet__grid">
+
+        </div>
+        <div class="xidmet__pagination">
+
+        </div>
+      </main>
+      <footer>
+        <div class="footer__box">
+          <div class="footer__top">
+            <div class="footer__left">
+              <a href="/"><img src="{{ url_for('static', filename='assets/img/Frame.png') }}" alt="" /></a>
+            </div>
+            <div class="footer__top__right">
+              <div class="footer__top__right__nav">
+                <ul>
+                  <li><a href="#">Haqqımızda</a></li>
+                  <li>
+                    <a href="/kindergardens">Bağçalarımız</a>
+                  </li>
+                  <li><a href="#">Xidmətlərimiz</a></li>
+                </ul>
+                <ul>
+                  <li><a href="#">Əlaqə</a></li>
+                  <li><a href="#">+994 50 7220088</a></li>
+                  <li><a href="#">+994 50 7220088</a></li>
+                </ul>
+                <ul>
+                  <li><a href="#">Qeydiyyat</a></li>
+                  <li><a href="#">Daxil olun</a></li>
+                  <li><a href="#">Hesab yaradın</a></li>
+                </ul>
+                <ul>
+                  <li><a href="#">Vakansiya</a></li>
+                  <li><a href="#">İş axtarıram</a></li>
+                  <li><a href="#">İşçi axtarıram</a></li>
+                </ul>
+              </div>
+              <div class="footer__top__right__email">
+                <input
+                  type="email"
+                  placeholder="Email göndər"
+                  id="footerEmail"
+                />
+                <label for="footerEmail">
+                  <svg
+                    width="14"
+                    height="14"
+                    viewBox="0 0 14 14"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      clip-rule="evenodd"
+                      d="M13.7884 0.569186C13.9512 0.732057 14.0064 0.97383 13.9303 1.19123L9.73379 13.183C9.65259 13.415 9.43799 13.574 9.19239 13.584C8.94679 13.594 8.71995 13.4531 8.62012 13.2284L6.31577 8.04287L1.13097 5.73818C0.90635 5.63833 0.76543 5.41147 0.775449 5.16583C0.785469 4.92019 0.944399 4.70556 1.17641 4.62434L13.1664 0.427233C13.3838 0.351142 13.6255 0.406316 13.7884 0.569186ZM7.485 7.72141L9.10164 11.3594L11.9308 3.275L7.485 7.72141ZM11.0829 2.42705L2.99974 5.25659L6.63718 6.87346L11.0829 2.42705Z"
+                      fill="white"
+                    />
+                  </svg>
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="footer__bottom">
+            <div class="footer__bottom__left">
+              <p>© 2021 Kids.az Bütün hüquqlar qorunur.</p>
+            </div>
+            <div class="footer__bottom__right">
+              <a href="#"
+                ><svg
+                  width="24"
+                  height="23"
+                  viewBox="0 0 24 23"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M11.5398 7.67539C9.42994 7.67539 7.70812 9.39749 7.70812 11.5077C7.70812 13.6179 9.42994 15.34 11.5398 15.34C13.6497 15.34 15.3715 13.6179 15.3715 11.5077C15.3715 9.39749 13.6497 7.67539 11.5398 7.67539ZM23.032 11.5077C23.032 9.92073 23.0464 8.34813 22.9573 6.76402C22.8682 4.92404 22.4485 3.29106 21.1033 1.94558C19.7551 0.597223 18.1253 0.180353 16.2856 0.0912292C14.6989 0.00210527 13.1265 0.0164801 11.5427 0.0164801C9.95597 0.0164801 8.38363 0.00210527 6.79978 0.0912292C4.9601 0.180353 3.32739 0.600098 1.98213 1.94558C0.633993 3.29394 0.217191 4.92404 0.128082 6.76402C0.0389727 8.351 0.0533452 9.92361 0.0533452 11.5077C0.0533452 13.0918 0.0389727 14.6673 0.128082 16.2514C0.217191 18.0914 0.636867 19.7244 1.98213 21.0698C3.33027 22.4182 4.9601 22.8351 6.79978 22.9242C8.3865 23.0133 9.95885 22.9989 11.5427 22.9989C13.1294 22.9989 14.7018 23.0133 16.2856 22.9242C18.1253 22.8351 19.758 22.4153 21.1033 21.0698C22.4514 19.7215 22.8682 18.0914 22.9573 16.2514C23.0493 14.6673 23.032 13.0947 23.032 11.5077ZM11.5398 17.4043C8.27727 17.4043 5.64423 14.7708 5.64423 11.5077C5.64423 8.24463 8.27727 5.61116 11.5398 5.61116C14.8024 5.61116 17.4354 8.24463 17.4354 11.5077C17.4354 14.7708 14.8024 17.4043 11.5398 17.4043ZM17.6769 6.74677C16.9151 6.74677 16.3 6.13153 16.3 5.36966C16.3 4.6078 16.9151 3.99256 17.6769 3.99256C18.4386 3.99256 19.0537 4.6078 19.0537 5.36966C19.054 5.55057 19.0185 5.72975 18.9494 5.89693C18.8803 6.06411 18.7789 6.21601 18.651 6.34393C18.5231 6.47185 18.3712 6.57328 18.204 6.64241C18.0369 6.71153 17.8577 6.747 17.6769 6.74677Z"
+                    fill="black"
+                  />
+                </svg>
+              </a>
+              <a href="#">
+                <svg
+                  width="23"
+                  height="23"
+                  viewBox="0 0 23 23"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g clip-path="url(#clip0_2415_338)">
+                    <path
+                      fill-rule="evenodd"
+                      clip-rule="evenodd"
+                      d="M0.0191498 11.5719C0.0191498 17.2854 4.16815 22.0364 9.5945 22.9998V14.6996H6.72189V11.5077H9.5945V8.9536C9.5945 6.08057 11.4454 4.48509 14.0633 4.48509C14.8925 4.48509 15.7869 4.61246 16.6161 4.73983V7.67702H15.1482C13.7435 7.67702 13.4246 8.37899 13.4246 9.27346V11.5077H16.4887L15.9784 14.6996H13.4246V22.9998C18.851 22.0364 23 17.2863 23 11.5719C23 5.2158 17.8293 0.015625 11.5096 0.015625C5.18984 0.015625 0.0191498 5.2158 0.0191498 11.5719Z"
+                      fill="black"
+                    />
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_2415_338">
+                      <rect
+                        width="22.9808"
+                        height="22.9842"
+                        fill="white"
+                        transform="translate(0.0191498 0.015625)"
+                      />
+                    </clipPath>
+                  </defs>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <!-- Boostrap cdn -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <!-- Scroll Animation -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="{{ url_for('static', filename='assets/js/masajistlar.js') }}"></script>
+  </body>
+</html>

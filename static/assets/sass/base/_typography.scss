@@ -1,0 +1,44 @@
+@import "../utils/variable";
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+}
+
+button {
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48.76px;
+  text-align: left;
+}
+
+.body__gradient__home {
+  background: $body-gradient;
+  z-index: -1;
+}
+
+.gradient_01{
+  background: $body-gradient;
+  min-height: 100vh;
+  z-index: -1;
+
+}
+.yellow__btn {
+  padding: 16px 42px;
+  border-radius: 17px;
+  border: none;
+  background: $yellow;
+  color: $black;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24.38px;
+  transition: all 0.4s ease;
+}
+
+.yellow__btn:hover {
+  background: $yellowHover;
+}

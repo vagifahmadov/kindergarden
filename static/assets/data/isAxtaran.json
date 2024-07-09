@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "AdSoyad": "Aygün Muxtarova",
+        "image": "https://s3-alpha-sig.figma.com/img/499a/9de5/a61b20306619943c3621ecb9ece0d5e8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cqqwArglYJwBg1VmZiBvcCuzIaydVEPcokEiaWl8PNF0clM8AxdywBj4CINxtl3kS8zVJiYaSxWc4KzhWwdv5MquzQSMbA29t8U3PBFTjxm~wYYEqwKK2t0jP9PTBGipXOMRtdwSt-lV4T7Cx237loqQcg7DlcNKKnFIAkBvCAgKMCjhI-RpMGOOQnP4Y0R0xx9PW0V3ALx2zxJEjlNQyoRIM5~hcoZ41YB2C9hfubqdSfUf1Za6u~tLjDU1lT7Kcdkj19yqYIq1jDI2QIQqMa2nlnTtAc9D0PT0Awfd~fK0BqMdbZy2xvS2-8q3FsLY7IYfEIcvR2xldP3K0elKyA__",
+        "profesiya": "tərbiyəçi"
+    },
+    {
+        "id": 2,
+        "AdSoyad": "Roya Kazimova",
+        "image": "https://s3-alpha-sig.figma.com/img/499a/9de5/a61b20306619943c3621ecb9ece0d5e8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cqqwArglYJwBg1VmZiBvcCuzIaydVEPcokEiaWl8PNF0clM8AxdywBj4CINxtl3kS8zVJiYaSxWc4KzhWwdv5MquzQSMbA29t8U3PBFTjxm~wYYEqwKK2t0jP9PTBGipXOMRtdwSt-lV4T7Cx237loqQcg7DlcNKKnFIAkBvCAgKMCjhI-RpMGOOQnP4Y0R0xx9PW0V3ALx2zxJEjlNQyoRIM5~hcoZ41YB2C9hfubqdSfUf1Za6u~tLjDU1lT7Kcdkj19yqYIq1jDI2QIQqMa2nlnTtAc9D0PT0Awfd~fK0BqMdbZy2xvS2-8q3FsLY7IYfEIcvR2xldP3K0elKyA__",
+        "profesiya": "fehle"
+    },
+    {
+        "id": 3,
+        "AdSoyad": "Aygün Muxtarova",
+        "image": "https://s3-alpha-sig.figma.com/img/499a/9de5/a61b20306619943c3621ecb9ece0d5e8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cqqwArglYJwBg1VmZiBvcCuzIaydVEPcokEiaWl8PNF0clM8AxdywBj4CINxtl3kS8zVJiYaSxWc4KzhWwdv5MquzQSMbA29t8U3PBFTjxm~wYYEqwKK2t0jP9PTBGipXOMRtdwSt-lV4T7Cx237loqQcg7DlcNKKnFIAkBvCAgKMCjhI-RpMGOOQnP4Y0R0xx9PW0V3ALx2zxJEjlNQyoRIM5~hcoZ41YB2C9hfubqdSfUf1Za6u~tLjDU1lT7Kcdkj19yqYIq1jDI2QIQqMa2nlnTtAc9D0PT0Awfd~fK0BqMdbZy2xvS2-8q3FsLY7IYfEIcvR2xldP3K0elKyA__",
+        "profesiya": "tərbiyəçi"
+    },
+    {
+        "id": 4,
+        "AdSoyad": "Aygün Muxtarova",
+        "image": "https://s3-alpha-sig.figma.com/img/499a/9de5/a61b20306619943c3621ecb9ece0d5e8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cqqwArglYJwBg1VmZiBvcCuzIaydVEPcokEiaWl8PNF0clM8AxdywBj4CINxtl3kS8zVJiYaSxWc4KzhWwdv5MquzQSMbA29t8U3PBFTjxm~wYYEqwKK2t0jP9PTBGipXOMRtdwSt-lV4T7Cx237loqQcg7DlcNKKnFIAkBvCAgKMCjhI-RpMGOOQnP4Y0R0xx9PW0V3ALx2zxJEjlNQyoRIM5~hcoZ41YB2C9hfubqdSfUf1Za6u~tLjDU1lT7Kcdkj19yqYIq1jDI2QIQqMa2nlnTtAc9D0PT0Awfd~fK0BqMdbZy2xvS2-8q3FsLY7IYfEIcvR2xldP3K0elKyA__",
+        "profesiya": "tərbiyəçi"
+    },
+    {
+        "id": 5,
+        "AdSoyad": "Aygün Muxtarova",
+        "image": "https://s3-alpha-sig.figma.com/img/499a/9de5/a61b20306619943c3621ecb9ece0d5e8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cqqwArglYJwBg1VmZiBvcCuzIaydVEPcokEiaWl8PNF0clM8AxdywBj4CINxtl3kS8zVJiYaSxWc4KzhWwdv5MquzQSMbA29t8U3PBFTjxm~wYYEqwKK2t0jP9PTBGipXOMRtdwSt-lV4T7Cx237loqQcg7DlcNKKnFIAkBvCAgKMCjhI-RpMGOOQnP4Y0R0xx9PW0V3ALx2zxJEjlNQyoRIM5~hcoZ41YB2C9hfubqdSfUf1Za6u~tLjDU1lT7Kcdkj19yqYIq1jDI2QIQqMa2nlnTtAc9D0PT0Awfd~fK0BqMdbZy2xvS2-8q3FsLY7IYfEIcvR2xldP3K0elKyA__",
+        "profesiya": "tərbiyəçi"
+    },
+    {
+        "id": 6,
+        "AdSoyad": "Aygün Muxtarova",
+        "image": "https://s3-alpha-sig.figma.com/img/499a/9de5/a61b20306619943c3621ecb9ece0d5e8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cqqwArglYJwBg1VmZiBvcCuzIaydVEPcokEiaWl8PNF0clM8AxdywBj4CINxtl3kS8zVJiYaSxWc4KzhWwdv5MquzQSMbA29t8U3PBFTjxm~wYYEqwKK2t0jP9PTBGipXOMRtdwSt-lV4T7Cx237loqQcg7DlcNKKnFIAkBvCAgKMCjhI-RpMGOOQnP4Y0R0xx9PW0V3ALx2zxJEjlNQyoRIM5~hcoZ41YB2C9hfubqdSfUf1Za6u~tLjDU1lT7Kcdkj19yqYIq1jDI2QIQqMa2nlnTtAc9D0PT0Awfd~fK0BqMdbZy2xvS2-8q3FsLY7IYfEIcvR2xldP3K0elKyA__",
+        "profesiya": "tərbiyəçi"
+    },
+    {
+        "id": 7,
+        "AdSoyad": "Aygün Muxtarova",
+        "image": "https://s3-alpha-sig.figma.com/img/499a/9de5/a61b20306619943c3621ecb9ece0d5e8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cqqwArglYJwBg1VmZiBvcCuzIaydVEPcokEiaWl8PNF0clM8AxdywBj4CINxtl3kS8zVJiYaSxWc4KzhWwdv5MquzQSMbA29t8U3PBFTjxm~wYYEqwKK2t0jP9PTBGipXOMRtdwSt-lV4T7Cx237loqQcg7DlcNKKnFIAkBvCAgKMCjhI-RpMGOOQnP4Y0R0xx9PW0V3ALx2zxJEjlNQyoRIM5~hcoZ41YB2C9hfubqdSfUf1Za6u~tLjDU1lT7Kcdkj19yqYIq1jDI2QIQqMa2nlnTtAc9D0PT0Awfd~fK0BqMdbZy2xvS2-8q3FsLY7IYfEIcvR2xldP3K0elKyA__",
+        "profesiya": "tərbiyəçi"
+    },
+    {
+        "id": 8,
+        "AdSoyad": "Aygün Muxtarova",
+        "image": "https://s3-alpha-sig.figma.com/img/499a/9de5/a61b20306619943c3621ecb9ece0d5e8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cqqwArglYJwBg1VmZiBvcCuzIaydVEPcokEiaWl8PNF0clM8AxdywBj4CINxtl3kS8zVJiYaSxWc4KzhWwdv5MquzQSMbA29t8U3PBFTjxm~wYYEqwKK2t0jP9PTBGipXOMRtdwSt-lV4T7Cx237loqQcg7DlcNKKnFIAkBvCAgKMCjhI-RpMGOOQnP4Y0R0xx9PW0V3ALx2zxJEjlNQyoRIM5~hcoZ41YB2C9hfubqdSfUf1Za6u~tLjDU1lT7Kcdkj19yqYIq1jDI2QIQqMa2nlnTtAc9D0PT0Awfd~fK0BqMdbZy2xvS2-8q3FsLY7IYfEIcvR2xldP3K0elKyA__",
+        "profesiya": "tərbiyəçi"
+    },
+    {
+        "id": 9,
+        "AdSoyad": "Aygün Muxtarova",
+        "image": "https://s3-alpha-sig.figma.com/img/499a/9de5/a61b20306619943c3621ecb9ece0d5e8?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cqqwArglYJwBg1VmZiBvcCuzIaydVEPcokEiaWl8PNF0clM8AxdywBj4CINxtl3kS8zVJiYaSxWc4KzhWwdv5MquzQSMbA29t8U3PBFTjxm~wYYEqwKK2t0jP9PTBGipXOMRtdwSt-lV4T7Cx237loqQcg7DlcNKKnFIAkBvCAgKMCjhI-RpMGOOQnP4Y0R0xx9PW0V3ALx2zxJEjlNQyoRIM5~hcoZ41YB2C9hfubqdSfUf1Za6u~tLjDU1lT7Kcdkj19yqYIq1jDI2QIQqMa2nlnTtAc9D0PT0Awfd~fK0BqMdbZy2xvS2-8q3FsLY7IYfEIcvR2xldP3K0elKyA__",
+        "profesiya": "tərbiyəçi"
+    }
+]
